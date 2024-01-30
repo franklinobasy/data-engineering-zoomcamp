@@ -40,7 +40,8 @@ In this section, we'll introduce the Mage platform. We'll cover what makes Mage 
 
 Videos
 - 2.2.2a - [What is Mage?](https://www.youtube.com/watch?v=AicKRcK3pa4&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
-- 2.2.2b - [Configuring Mage](https://www.youtube.com/watch?v=2SV-av3L3-k&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
+- 
+- 2.2.2b - [Configuring Mage](https://www.youtube.com/watch?v=tNiV7Wp08XE?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
 - 2.2.2c - [A Simple Pipeline](https://www.youtube.com/watch?v=stI-gg4QBnI&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
 
 Resources
@@ -138,6 +139,8 @@ Did you take notes? You can share them here:
 
 ## 2024 notes
 
+* [2024 Videos transcripts week 2](https://drive.google.com/drive/folders/1yxT0uMMYKa6YOxanh91wGqmQUMS7yYW7?usp=sharing) by Maria Fisher
+* [Notes from Jonah Oliver](https://www.jonahboliver.com/blog/de-zc-w2)
 * Add your notes above this line
 
 ## 2023 notes
